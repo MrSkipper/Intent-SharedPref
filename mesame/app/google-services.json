@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "920364683264",
+    "firebase_url": "https://mesame-822d5.firebaseio.com",
+    "project_id": "mesame-822d5",
+    "storage_bucket": "mesame-822d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920364683264:android:6a8286f13e35dd9dd888e5",
+        "android_client_info": {
+          "package_name": "ge.msda.intentfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920364683264-5fl44bvb3ho5i6uq8ob9s52qe677mhgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ge.msda.intentfirst",
+            "certificate_hash": "3cde6b255a7e1d191a6d924d46da5ce52170917a"
+          }
+        },
+        {
+          "client_id": "920364683264-876t76q8d6chnglnp3hm6kvd7lupo5e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnwbUXAN6FmFEze1pgV-ccoEIq9cSXEdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920364683264-876t76q8d6chnglnp3hm6kvd7lupo5e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
